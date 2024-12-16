@@ -1,11 +1,9 @@
-### Hi there! 👋
-I’m a software engineer at BYD New Technology Research Institute with a master’s degree background. My academic research focused on chocolate science and cryptography, especially in the field of zero-knowledge proofs.
+### Hello! 👋
+I hold a master's degree with a focus on blockchain and cryptography, having extensively studied cutting-edge topics like zero-knowledge proofs during my academic journey.
 
-Beyond research, I have a deep passion for web frontend development, with experience in building robust and scalable applications. My journey has equipped me with a strong foundation in modern web technologies, problem-solving skills, and a drive for learning new things.
+Although my academic background is centered around cryptography, I have a strong passion for web frontend development. In my work, I focus on frontend engineering, performance optimization, and building high-quality, scalable web applications. I’m enthusiastic about using modern frontend technologies to solve real-world problems and constantly strive to enhance my development skills.
 
-I enjoy exploring the intersection of cutting-edge cryptography and practical software development, aiming to integrate innovative solutions into real-world applications.
-
-Let’s connect and build something amazing together! 🚀
+I hope my knowledge and practical experience can add value to more projects, and I look forward to collaborating with you to explore new possibilities! 🚀
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiguangx&show_icons=true&theme=tokyonight&bg_color=FAF3E0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiguangx&layout=compact&theme=tokyonight&bg_color=FAF3E0&card_width=500)
