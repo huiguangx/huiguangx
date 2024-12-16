@@ -7,8 +7,9 @@ I enjoy exploring the intersection of cutting-edge cryptography and practical so
 
 Let’s connect and build something amazing together! 🚀
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiguangx&show_icons=true&theme=tokyonight&bg_color=87CEEB)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiguangx&layout=compact&theme=tokyonight&bg_color=87CEEB)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiguangx&show_icons=true&theme=tokyonight&bg_color=FAF3E0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiguangx&layout=compact&theme=tokyonight&bg_color=FAF3E0)
+
 
 
 <!--
